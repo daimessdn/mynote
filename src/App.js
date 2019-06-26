@@ -15,6 +15,10 @@ function App() {
           <textarea name="desc" placeholder="Description"></textarea>
         </form>
       </div>
+      <Card
+        title="Important Question from Martha"
+        desc="How many children does Mr. John have if he had four daughters and each daughter has one brother?"
+      />
       <Card title="Hello" desc="What's your name" />
       <Card title="Hi" desc="Nice to meet you" />
       <Card title="Lorem ipsum" desc="... dolor sit amet ..." />
