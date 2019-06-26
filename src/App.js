@@ -6,6 +6,15 @@ import './App.css';
 function App() {
   return (
     <div className="card-group">
+      <div className="card card-add">
+        <form>
+          <div className="form-inline">
+            <input type="text" name="title" placeholder="Title" />
+            <button type="submit">+</button>
+          </div>
+          <textarea name="desc" placeholder="Description"></textarea>
+        </form>
+      </div>
       <Card title="Hello" desc="What's your name" />
       <Card title="Hi" desc="Nice to meet you" />
       <Card title="Lorem ipsum" desc="... dolor sit amet ..." />
