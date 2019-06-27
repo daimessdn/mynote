@@ -19,8 +19,20 @@ function App() {
         title="Important Question from Martha"
         desc="How many children does Mr. John have if he had four daughters and each daughter has one brother?"
       />
+      <Card
+        title="Quotes from Albert Camus"
+        desc="“You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.”"
+      />
       <Card title="Hello" desc="What's your name" />
       <Card title="Hi" desc="Nice to meet you" />
+      <Card
+        title="Reservoir Fluid Homework"
+        desc="McCain, William D. Jr - read about gas hydrate."
+      />
+      <Card
+        title="Study for Projects"
+        desc="Machine learning for getting an oil production data."
+      />
       <Card title="Lorem ipsum" desc="... dolor sit amet ..." />
     </div>
   );
