@@ -16,6 +16,10 @@ function App() {
         </form>
       </div>
       <Card
+        title="My small achievement..."
+        desc="I've succeeded to create Laravel migrations through phpmyadmin. L'it... :)"
+      />
+      <Card
         title="Important Question from Martha"
         desc="How many children does Mr. John have if he had four daughters and each daughter has one brother?"
       />
