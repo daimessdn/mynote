@@ -73,4 +73,5 @@ form {
 	overflow-y: scroll;
 	width: 100%;
 	height: 86%;
+	resize: none;
 }
