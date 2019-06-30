@@ -21,6 +21,9 @@ h1 {
 	width: 200px;
 	height: 200px;
 	padding: 10px;
+	box-shadow: 
+		0 0 0 1px #747547,
+		0 0 0 3px rgb(248, 234, 109);
 }
 
 .card h1, .card p {
