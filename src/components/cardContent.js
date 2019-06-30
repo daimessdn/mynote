@@ -12,7 +12,8 @@ const cardContent = [
     title: 'Hi',
     desc : 'Nice to meet you',
     x    : '277px',
-    y    : '131px'
+    y    : '131px',
+    color: '#4dc0d0'
   },
   {
     id   : 435,
