@@ -8,7 +8,14 @@ import './App.css';
 class App extends Component {
 	render() {
 
-		const myCards = cardContent.map(card => <Card key={card.id} title={card.title} desc={card.desc} />)
+		const myCards = cardContent.map(card => 
+			<Card
+				key={card.id}
+				title={card.title}
+				desc={card.desc}
+				x={card.x}
+				y={card.y}
+			/>)
 
 		return (
 			<div className="card-group">
