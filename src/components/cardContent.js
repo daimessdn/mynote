@@ -2,7 +2,9 @@ const cardContent = [
   {
     id   : 433,
     title: 'Hello',
-    desc : 'What\'s your name'
+    desc : 'What\'s your name',
+    x    : 43,
+    y    : 56
   },
   {
     id   : 434,
