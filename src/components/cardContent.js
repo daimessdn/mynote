@@ -4,7 +4,8 @@ const cardContent = [
     title: 'Hello',
     desc : 'What\'s your name',
     x    : '444px',
-    y    : '56px'
+    y    : '56px',
+    color: '#f15f3e'
   },
   {
     id   : 434,

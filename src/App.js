@@ -15,6 +15,7 @@ class App extends Component {
 				desc={card.desc}
 				x={card.x}
 				y={card.y}
+				color={card.color}
 			/>)
 
 		return (
