@@ -15,3 +15,5 @@ const cardContent = [
     desc : '... dolor sit amet ...'
   },
 ]
+
+export default cardContent
