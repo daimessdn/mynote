@@ -5,7 +5,7 @@ const cardContent = [
     desc : 'What\'s your name',
     x    : '444px',
     y    : '56px',
-    color: '#f15f3e'
+    color: '#ff684d'
   },
   {
     id   : 434,
@@ -20,7 +20,16 @@ const cardContent = [
     title: 'Lorem ipsum',
     desc : '... dolor sit amet ...',
     x    : '433px',
-    y    : '333px'
+    y    : '333px',
+    color: '#ffcd5a'
+  },
+  {
+    id   : 436,
+    title: 'Messages from mom.',
+    desc : 'Don\'t forget to drink your milk every morning. Thank you, mom. I love you...',
+    x    : '733px',
+    y    : '13px',
+    color: '#8bca4d'
   },
 ]
 
